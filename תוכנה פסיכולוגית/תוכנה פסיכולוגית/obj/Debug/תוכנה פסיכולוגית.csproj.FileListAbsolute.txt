@@ -1,0 +1,30 @@
+C:\Users\פרידמן חצור\AppData\Local\Temporary Projects\תוכנה פסיכולוגית\bin\Debug\תוכנה פסיכולוגית.exe
+C:\Users\פרידמן חצור\AppData\Local\Temporary Projects\תוכנה פסיכולוגית\bin\Debug\תוכנה פסיכולוגית.pdb
+C:\Users\פרידמן חצור\AppData\Local\Temporary Projects\תוכנה פסיכולוגית\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\פרידמן חצור\AppData\Local\Temporary Projects\תוכנה פסיכולוגית\obj\Debug\תוכנה_פסיכולוגית.Form1.resources
+C:\Users\פרידמן חצור\AppData\Local\Temporary Projects\תוכנה פסיכולוגית\obj\Debug\תוכנה_פסיכולוגית.Properties.Resources.resources
+C:\Users\פרידמן חצור\AppData\Local\Temporary Projects\תוכנה פסיכולוגית\obj\Debug\תוכנה פסיכולוגית.csproj.GenerateResource.Cache
+C:\Users\פרידמן חצור\AppData\Local\Temporary Projects\תוכנה פסיכולוגית\obj\Debug\תוכנה פסיכולוגית.exe
+C:\Users\פרידמן חצור\AppData\Local\Temporary Projects\תוכנה פסיכולוגית\obj\Debug\תוכנה פסיכולוגית.pdb
+C:\Users\פרידמן חצור\Documents\Visual Studio 2008\Projects\תוכנה פסיכולוגית\תוכנה פסיכולוגית\obj\Debug\תוכנה פסיכולוגית.exe
+C:\Users\פרידמן חצור\Documents\Visual Studio 2008\Projects\תוכנה פסיכולוגית\תוכנה פסיכולוגית\obj\Debug\תוכנה פסיכולוגית.pdb
+C:\Users\KOBI2\OneDrive\מסמכים\תוכנה פסיכולוגית\תוכנה פסיכולוגית\obj\Debug\תוכנה פסיכולוגית.exe
+C:\Users\KOBI2\OneDrive\מסמכים\תוכנה פסיכולוגית\תוכנה פסיכולוגית\obj\Debug\תוכנה פסיכולוגית.pdb
+C:\Users\KOBI2\OneDrive\מסמכים\תוכנה פסיכולוגית\תוכנה פסיכולוגית\bin\Debug\תוכנה פסיכולוגית.exe
+C:\Users\KOBI2\OneDrive\מסמכים\תוכנה פסיכולוגית\תוכנה פסיכולוגית\bin\Debug\תוכנה פסיכולוגית.pdb
+C:\Users\KOBI2\OneDrive\מסמכים\תוכנה פסיכולוגית\תוכנה פסיכולוגית\obj\Debug\תוכנה פסיכולוגית.csprojResolveAssemblyReference.cache
+C:\Users\KOBI2\OneDrive\מסמכים\תוכנה פסיכולוגית\תוכנה פסיכולוגית\obj\Debug\תוכנה_פסיכולוגית.Form1.resources
+C:\Users\KOBI2\OneDrive\מסמכים\תוכנה פסיכולוגית\תוכנה פסיכולוגית\obj\Debug\תוכנה_פסיכולוגית.Properties.Resources.resources
+C:\Users\KOBI2\OneDrive\מסמכים\תוכנה פסיכולוגית\תוכנה פסיכולוגית\obj\Debug\תוכנה פסיכולוגית.csproj.GenerateResource.Cache
+C:\Users\PROFI\OneDrive\מסמכים\תוכנה פסיכולוגית\תוכנה פסיכולוגית\תוכנה פסיכולוגית\bin\Debug\תוכנה פסיכולוגית.exe.config
+C:\Users\PROFI\OneDrive\מסמכים\תוכנה פסיכולוגית\תוכנה פסיכולוגית\תוכנה פסיכולוגית\obj\Debug\תוכנה פסיכולוגית.exe
+C:\Users\PROFI\OneDrive\מסמכים\תוכנה פסיכולוגית\תוכנה פסיכולוגית\תוכנה פסיכולוגית\obj\Debug\תוכנה פסיכולוגית.pdb
+C:\Users\PROFI\OneDrive\מסמכים\תוכנה פסיכולוגית\תוכנה פסיכולוגית\תוכנה פסיכולוגית\bin\Debug\תוכנה פסיכולוגית.exe
+C:\Users\PROFI\OneDrive\מסמכים\תוכנה פסיכולוגית\תוכנה פסיכולוגית\תוכנה פסיכולוגית\bin\Debug\תוכנה פסיכולוגית.pdb
+C:\Users\PROFI\OneDrive\מסמכים\תוכנה פסיכולוגית\תוכנה פסיכולוגית\תוכנה פסיכולוגית\obj\Debug\תוכנה פסיכולוגית.csprojResolveAssemblyReference.cache
+C:\Users\PROFI\OneDrive\מסמכים\תוכנה פסיכולוגית\תוכנה פסיכולוגית\תוכנה פסיכולוגית\obj\Debug\תוכנה_פסיכולוגית.Form1.resources
+C:\Users\PROFI\OneDrive\מסמכים\תוכנה פסיכולוגית\תוכנה פסיכולוגית\תוכנה פסיכולוגית\obj\Debug\תוכנה_פסיכולוגית.Properties.Resources.resources
+C:\Users\PROFI\OneDrive\מסמכים\תוכנה פסיכולוגית\תוכנה פסיכולוגית\תוכנה פסיכולוגית\obj\Debug\תוכנה פסיכולוגית.csproj.GenerateResource.Cache
+G:\פרויקטים בתכנות\Projects\תוכנה פסיכולוגית\תוכנה פסיכולוגית\תוכנה פסיכולוגית\bin\Debug\תוכנה פסיכולוגית.exe.config
+G:\פרויקטים בתכנות\Projects\תוכנה פסיכולוגית\תוכנה פסיכולוגית\תוכנה פסיכולוגית\obj\Debug\תוכנה פסיכולוגית.exe
+G:\פרויקטים בתכנות\Projects\תוכנה פסיכולוגית\תוכנה פסיכולוגית\תוכנה פסיכולוגית\obj\Debug\תוכנה פסיכולוגית.pdb

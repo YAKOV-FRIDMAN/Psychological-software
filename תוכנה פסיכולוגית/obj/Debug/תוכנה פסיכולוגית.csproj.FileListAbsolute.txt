@@ -1,0 +1,32 @@
+C:\Users\פרידמן חצור\AppData\Local\Temporary Projects\תוכנה פסיכולוגית\bin\Debug\תוכנה פסיכולוגית.exe
+C:\Users\פרידמן חצור\AppData\Local\Temporary Projects\תוכנה פסיכולוגית\bin\Debug\תוכנה פסיכולוגית.pdb
+C:\Users\פרידמן חצור\AppData\Local\Temporary Projects\תוכנה פסיכולוגית\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\פרידמן חצור\AppData\Local\Temporary Projects\תוכנה פסיכולוגית\obj\Debug\תוכנה_פסיכולוגית.Form1.resources
+C:\Users\פרידמן חצור\AppData\Local\Temporary Projects\תוכנה פסיכולוגית\obj\Debug\תוכנה_פסיכולוגית.Properties.Resources.resources
+C:\Users\פרידמן חצור\AppData\Local\Temporary Projects\תוכנה פסיכולוגית\obj\Debug\תוכנה פסיכולוגית.csproj.GenerateResource.Cache
+C:\Users\פרידמן חצור\AppData\Local\Temporary Projects\תוכנה פסיכולוגית\obj\Debug\תוכנה פסיכולוגית.exe
+C:\Users\פרידמן חצור\AppData\Local\Temporary Projects\תוכנה פסיכולוגית\obj\Debug\תוכנה פסיכולוגית.pdb
+C:\Users\פרידמן חצור\Documents\Visual Studio 2008\Projects\תוכנה פסיכולוגית\תוכנה פסיכולוגית\obj\Debug\תוכנה פסיכולוגית.exe
+C:\Users\פרידמן חצור\Documents\Visual Studio 2008\Projects\תוכנה פסיכולוגית\תוכנה פסיכולוגית\obj\Debug\תוכנה פסיכולוגית.pdb
+C:\Users\פרידמן חצור\Documents\Visual Studio 2013\Projects\תוכנה פסיכולוגית\תוכנה פסיכולוגית\obj\Debug\תוכנה פסיכולוגית.exe
+C:\Users\פרידמן חצור\Documents\Visual Studio 2013\Projects\תוכנה פסיכולוגית\תוכנה פסיכולוגית\obj\Debug\תוכנה פסיכולוגית.pdb
+C:\Users\פרידמן חצור\Documents\Visual Studio 2013\Projects\תוכנה פסיכולוגית\תוכנה פסיכולוגית\bin\Debug\תוכנה פסיכולוגית.exe
+C:\Users\פרידמן חצור\Documents\Visual Studio 2013\Projects\תוכנה פסיכולוגית\תוכנה פסיכולוגית\bin\Debug\תוכנה פסיכולוגית.pdb
+C:\Users\פרידמן חצור\Documents\Visual Studio 2013\Projects\תוכנה פסיכולוגית\תוכנה פסיכולוגית\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\פרידמן חצור\Documents\Visual Studio 2013\Projects\תוכנה פסיכולוגית\תוכנה פסיכולוגית\bin\Debug\AForge.Video.dll
+C:\Users\פרידמן חצור\Documents\Visual Studio 2013\Projects\תוכנה פסיכולוגית\תוכנה פסיכולוגית\obj\Debug\תוכנה פסיכולוגית.csprojResolveAssemblyReference.cache
+C:\Users\פרידמן חצור\Documents\Visual Studio 2013\Projects\תוכנה פסיכולוגית\תוכנה פסיכולוגית\obj\Debug\תוכנה_פסיכולוגית.Form1.resources
+C:\Users\פרידמן חצור\Documents\Visual Studio 2013\Projects\תוכנה פסיכולוגית\תוכנה פסיכולוגית\obj\Debug\תוכנה_פסיכולוגית.Properties.Resources.resources
+C:\Users\פרידמן חצור\Documents\Visual Studio 2013\Projects\תוכנה פסיכולוגית\תוכנה פסיכולוגית\obj\Debug\תוכנה פסיכולוגית.csproj.GenerateResource.Cache
+D:\פרויקטים בתכנות\Projects\תוכנה פסיכולוגית\תוכנה פסיכולוגית\bin\Debug\תוכנה פסיכולוגית.exe.config
+D:\פרויקטים בתכנות\Projects\תוכנה פסיכולוגית\תוכנה פסיכולוגית\bin\Debug\תוכנה פסיכולוגית.exe
+D:\פרויקטים בתכנות\Projects\תוכנה פסיכולוגית\תוכנה פסיכולוגית\obj\Debug\תוכנה פסיכולוגית.csproj.AssemblyReference.cache
+D:\פרויקטים בתכנות\Projects\תוכנה פסיכולוגית\תוכנה פסיכולוגית\obj\Debug\תוכנה פסיכולוגית.csproj.SuggestedBindingRedirects.cache
+D:\פרויקטים בתכנות\Projects\תוכנה פסיכולוגית\תוכנה פסיכולוגית\obj\Debug\תוכנה_פסיכולוגית.Form1.resources
+D:\פרויקטים בתכנות\Projects\תוכנה פסיכולוגית\תוכנה פסיכולוגית\obj\Debug\תוכנה_פסיכולוגית.Properties.Resources.resources
+D:\פרויקטים בתכנות\Projects\תוכנה פסיכולוגית\תוכנה פסיכולוגית\obj\Debug\תוכנה פסיכולוגית.csproj.GenerateResource.cache
+D:\פרויקטים בתכנות\Projects\תוכנה פסיכולוגית\תוכנה פסיכולוגית\obj\Debug\תוכנה פסיכולוגית.csproj.CoreCompileInputs.cache
+D:\פרויקטים בתכנות\Projects\תוכנה פסיכולוגית\תוכנה פסיכולוגית\obj\Debug\תוכנה פסיכולוגית.csproj.CopyComplete
+D:\פרויקטים בתכנות\Projects\תוכנה פסיכולוגית\תוכנה פסיכולוגית\obj\Debug\תוכנה פסיכולוגית.exe
+D:\פרויקטים בתכנות\Projects\תוכנה פסיכולוגית\תוכנה פסיכולוגית\obj\Debug\תוכנה פסיכולוגית.pdb
+D:\פרויקטים בתכנות\Projects\תוכנה פסיכולוגית\תוכנה פסיכולוגית\bin\Debug\תוכנה פסיכולוגית.pdb
